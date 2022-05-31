@@ -12,10 +12,10 @@ All VCC pins are on 5V (VBUS)
 All GND pins can be connected to any GND on the pico
 
 Hardware:
--Raspberry Pi Pico
--LCD 1602 16x2
--HC06 Bluetooth Module
--I2C Adapter for LCD1602
+-Raspberry Pi Pico                                                  
+-LCD 1602 16x2                                                  
+-HC06 Bluetooth Module                                                  
+-I2C Adapter for LCD1602                                                  
 
 
 
