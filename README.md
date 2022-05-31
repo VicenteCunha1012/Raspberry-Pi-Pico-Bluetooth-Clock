@@ -6,7 +6,7 @@ ___________________________
 GPIO -SCL-    -I2C Adapter                                                
 GPI1 -SDA-    -I2C Adapter                                              
 GPI3 -RX(HC06)                                                         
-GPI4 -RX(HC06)                                                        
+GPI4 -TX(HC06)                                                        
 GPI10-Button                                                           
 ___________________________
 All VCC pins are on 5V (VBUS)
