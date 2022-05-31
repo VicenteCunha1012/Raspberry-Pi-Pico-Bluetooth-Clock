@@ -1,6 +1,7 @@
 # Raspberry-Pi-Pico-Clock
 Raspberry Pi Pico Clock/Thermometer/Calendar made with Circuitpython
 LCD API for LCD1602 made by T-622 at https://github.com/T-622/RPI-PICO-I2C-LCD
+From https://github.com/T-622/RPI-PICO-I2C-LCD lcd_api.py and lcd_i2c_lcd.py are required to run this program
 ___________________________
 GPIO -SCL-    -I2C Adapter                                                
 GPI1 -SDA-    -I2C Adapter                                              
